@@ -1,0 +1,28 @@
+body{
+  font-family: Arial;
+  background: black;
+  color: white;
+  
+}
+.welcome{
+  color:red;
+  font-size:30px;
+  
+}
+.top span{
+  
+  color yellow;
+}
+.info{
+  border:2px solid blue;
+  padding: 20px;
+}
+b{color:red;}
+img{
+  width: 100%;
+}
+container {
+  border:; 5px solid  limeyellow;
+  width: min(100% - 2rem, 600px);
+  margine-inline:auto;
+}
